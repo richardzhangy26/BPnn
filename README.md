@@ -1,1 +1,1 @@
-tensorflow and traditional method to realize back propagation neural network
+tensorflow and traditional method to realize back propagation
