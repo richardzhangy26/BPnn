@@ -1,3 +1,4 @@
 import os 
-print(os.listdir('./'))
+print(os.listdir('./.vscode'))
+print("hello world")
 print('yes AMD')
